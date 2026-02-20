@@ -1,0 +1,7 @@
+linters:
+  enable:
+    - linter
+linters-settings:
+  custom:
+    linter:
+      path: ./linter.so

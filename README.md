@@ -1,0 +1,2 @@
+# linter
+Poor linter
